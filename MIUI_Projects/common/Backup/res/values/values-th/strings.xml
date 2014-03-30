@@ -2,17 +2,17 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Backup</string>
-  <string name="local_app_name">Backup</string>
+  <string name="local_app_name">สำรองข้อมูล</string>
   <string name="local_home_title">Local backups</string>
-  <string name="button_backup">Back up</string>
-  <string name="start_backup">Back up</string>
-  <string name="button_cancel">Cancel</string>
-  <string name="backup_empty">No backups</string>
+  <string name="button_backup">สำรองข้อมูล</string>
+  <string name="start_backup">เริ่ม</string>
+  <string name="button_cancel">ยกเลิก</string>
+  <string name="backup_empty">ไม่พบข้อมูล</string>
   <string name="backup_items_sysdata_tailer">" \u0020system data files, "</string>
   <string name="backup_items_app_tailer">" \u0020app data files "</string>
-  <string name="backup_failed">Backup failed</string>
-  <string name="backup_recently">" \u0020(most recent) "</string>
-  <string name="sdcard_unmounted">No SD card detected</string>
+  <string name="backup_failed">การทำงานล้มเหลว</string>
+  <string name="backup_recently">" \u0020(ล่าสุด) "</string>
+  <string name="sdcard_unmounted">ไม่พบ SD card</string>
   <string-array name="backup_dialog_content_type">
     <item>Wi-Fi data</item>
     <item>All apps</item>
